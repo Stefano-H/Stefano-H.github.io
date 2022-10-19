@@ -23,7 +23,7 @@ Stefanohinojosa73@gmail.com
 
 ## Idiomas
  
-2. Español Nativo
-2. Italiano nativo
-Ingles: B1.2
-Catalan Nativo
+* Español Nativo
+* Italiano nativo
+* Ingles: B1.2
+* Catalan Nativo
