@@ -23,7 +23,7 @@ Stefanohinojosa73@gmail.com
 
 ## Idiomas
  
-Español Nativo
-Italiano nativo
+2. Español Nativo
+2. Italiano nativo
 Ingles: B1.2
 Catalan Nativo
