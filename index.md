@@ -19,7 +19,7 @@ No tengo experiencia en trabajos oficiales, aunque tengo muchas ganas y mucha mo
 
 ## Contacto
 
-Stefanohinojosa73@gmail.com
+*Stefanohinojosa73@gmail.com*
 
 ## Idiomas
  
