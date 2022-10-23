@@ -1,5 +1,7 @@
 # CURRICULUM
 
+![image](https://images.canva.com/aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL21lZGlhLXByaXZhdGUuY2FudmEuY29tL0R5Tk5ZL01BRXdOWkR5Tk5ZLzEvcC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSldGNlFPM1VINFBBQUo2USUyRjIwMjIxMDIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIyMTAyM1QxMTAwNTFaJlgtQW16LUV4cGlyZXM9MzA5ODUmWC1BbXotU2lnbmF0dXJlPWJjMjQwZDZiMWUxYTQ0ZmY3YWNkZjBiM2RjNWZiZDMzMWM3Y2YxOGNkM2Y2ZTg4NmEwM2M5YzQ3ODkwYzVhYTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWV4cGlyZXM9U3VuJTJDJTIwMjMlMjBPY3QlMjAyMDIyJTIwMTklM0EzNyUzQTE2JTIwR01U?height=75&width=63)
+
 ## Perfil personal
 Soy una persona trabajadora y reflexiva , logro trabajar en condiciones de alta presion, logro los pequeños objetivos que me propongo, tengo como valores la honestidad y el poder organizar mi tiempo.
 ## Habilidades
@@ -27,3 +29,6 @@ No tengo experiencia en trabajos oficiales, aunque tengo muchas ganas y mucha mo
 * Italiano nativo
 * Ingles: B1.2
 * Catalan Nativo
+
+## Portfolio
+
