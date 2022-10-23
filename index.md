@@ -32,3 +32,8 @@ No tengo experiencia en trabajos oficiales, aunque tengo muchas ganas y mucha mo
 
 ## Portfolio
 
+Aqui encontrareis mis proyectos de programación:
+
+[Proyecto1](https://github.com/Stefano-H/Stefano-H.github.io/blob/main/Webprueba1.html)
+
+[Proyecto2](https://github.com/Stefano-H/Stefano-H.github.io/blob/main/Ejemploentradasalida.py)
